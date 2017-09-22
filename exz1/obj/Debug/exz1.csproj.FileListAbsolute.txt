@@ -1,0 +1,6 @@
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\bin\Debug\exz1.exe.config
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\bin\Debug\exz1.exe
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\bin\Debug\exz1.pdb
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\obj\Debug\exz1.csprojResolveAssemblyReference.cache
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\obj\Debug\exz1.exe
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\exz1\exz1\obj\Debug\exz1.pdb
